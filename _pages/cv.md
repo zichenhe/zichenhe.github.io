@@ -40,6 +40,7 @@ Research experience
 Teaching Experience
 ======
 * ME 335 Instrctional Aide for 2023 fall semseter
+
   * Instructor: Prof.Jianping Fu
   * Worked as an Instructional Aide (IA, undergraduate teaching assistant) for ME 335 Heat transfer
    	Held office hours 4 hours per week to help students with clarifying concepts, solving homework and exam problems 
