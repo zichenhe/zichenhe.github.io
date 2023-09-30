@@ -49,12 +49,12 @@ Teaching Experience
 Service and leadership
 ======
 * Peer Advisor Program
-  Peer Advisor and PA leader                                     Sept. 2021- July. 2022
+  * Peer Advisor and PA leader                                     Sept. 2021- July. 2022
   * Gave advice and orientation for 20 engineering students to help them better adapt to college life
    	Organized ice-breaking activities for 10 groups of 200 freshmen as a PA leader. About 90% of the participants found this activity helpful to prepare them for the academic and social life in the university
   * Awarded “Outstanding Peer advisor” and “Outstanding PA leader”
 
 * SCUPI Student Council 
-  Deputy Leader of Finance                                       Sept. 2021- July. 2022
+  * Deputy Leader of Finance                                       Sept. 2021- July. 2022
   * Prepared and purchased items needed by carnival.
   * Organized Study Break for 300 students between midterms period, including the preparation for games, snacks and desserts
