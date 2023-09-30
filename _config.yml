@@ -83,7 +83,7 @@ author:
   name             : "Zichen He"
   avatar           : "photo_zichen.png"
   bio              : "undergrad at UMich"
-  location         : "Ann Arbor"        
+  location         : #"Ann Arbor"        
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
